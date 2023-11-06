@@ -1,0 +1,12 @@
+10
+20
+true true false 110 false true true 873 true false false 523 true true false 2710 false true true 3836 
+true true false 79 false true true 907 true false false 464 true true true 2723 false true true 3742 
+true false false 106 false true true 914 true false false 490 true true false 2793 false true true 3838 
+true true false 197 false true true 783 true false false 467 true true false 2681 false true true 3896 
+true true false 129 false true true 918 true false false 435 true true false 2615 false true true 3765 
+true true false 199 false true true 956 true false false 544 true true false 2673 false true true 3752 
+true true false 73 false true true 890 true false false 591 true true false 2721 false true true 3771 
+true true false 94 false true true 971 true false false 528 true true false 2717 false true true 3867 
+true true false 82 false true true 934 true false false 561 true true false 2680 false true true 3833 
+true true false 168 false true true 863 true false false 542 true true false 2783 false true true 3912 

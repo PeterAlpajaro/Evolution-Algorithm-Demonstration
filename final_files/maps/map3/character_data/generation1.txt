@@ -1,0 +1,12 @@
+10
+20
+true true true 0 true true true 1000 true true true 2000 true true true 3000 true true true 4000 
+true true true 14 true true true 1010 true true true 1998 true true true 2913 true true true 3989 
+true true true 1 true true true 1025 true true true 1984 true true true 2824 true true true 3914 
+true false true 94 true true true 936 true true true 1899 true true true 2826 true true true 3857 
+true false false 183 true true true 994 true true true 1920 true true true 2875 true false true 3914 
+true false false 242 true true true 1009 true true true 2011 true true true 2822 true false true 3934 
+true false false 242 true true true 1011 true true true 2041 true true true 2877 true false true 4018 
+true false false 224 true true true 1046 true true true 1952 true true true 2882 true false true 3964 
+true false false 145 true true true 1118 true true true 1929 true true true 2810 true false true 3986 
+true false false 225 true true true 1082 true true true 1851 true true true 2891 true false true 3910 

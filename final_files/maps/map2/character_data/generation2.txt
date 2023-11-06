@@ -1,0 +1,12 @@
+10
+20
+true true true 1 true true true 1223 true true true 2036 true true false 2870 false true true 4163 
+true true true 1 true true false 1189 true true true 2025 true true false 2882 false true true 4159 
+true true true 41 true true true 1306 true true true 2037 true true false 2788 false true true 4188 
+true true true 1 true true true 1268 true true true 2018 true false false 2961 false true true 4137 
+true true true 1 true true true 1241 true true true 2045 true true false 2956 false true true 4138 
+true true true 1 true true true 1128 true true true 1973 true true false 2789 false true true 4160 
+true true true 9 true true true 1298 true true true 2014 true true false 2898 false true true 4094 
+true true true 44 true true true 1294 true true true 1993 true true false 2799 false true true 4223 
+true true true 63 true true true 1282 true true true 2121 true true false 2915 false true true 4090 
+true true true 37 true true true 1322 true true true 2110 true true false 2852 false true true 4073 

@@ -1,0 +1,12 @@
+10
+20
+true true true 1 true true true 1056 true true false 1920 true true true 3089 true true true 3966 
+true true true 68 true true false 1124 true true false 1929 true true true 3103 true true true 3893 
+true true true 22 true true true 1097 true true false 1921 true true true 3180 true true true 3911 
+true true true 14 true true true 1018 true true false 1981 true true true 3046 true false true 4031 
+true true true 60 true true true 1045 true true false 1920 true true true 3051 true true true 3998 
+true true false 78 true true true 964 true true false 1938 true true false 3089 false false true 4045 
+true true true 1 true true true 1046 true true false 1964 true true true 3066 true true true 3958 
+true true true 1 true true true 1114 true true false 1887 true true true 2995 true true true 3891 
+true true true 1 true true true 1092 true true false 1940 true true true 3168 true true true 3961 
+true true true 36 true true true 1082 false true false 2017 true true true 3056 true true true 3904 
